@@ -1,5 +1,5 @@
 {
-    "name": "filaforge/filament-terminal-console"]*",
+    "name": "filaforge/filament-terminal-console",
   "version": "0.1.0",
     "description": "A powerful Filament panel plugin that provides a browser-based terminal console with command presets, security allowlists, and real-time execution capabilities.",
     "type": "library",
